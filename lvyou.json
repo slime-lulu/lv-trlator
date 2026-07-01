@@ -1,0 +1,154 @@
+{
+  "scenic_spots": [
+    {
+      "id": "ly001",
+      "zh": "绿春县城",
+      "hani": "lav cheeq",
+      "pronunciation": "腊夫切",
+      "category": "scenic",
+      "intro": "绿春县城是哈尼族聚居的县城，仅有一条主街道"
+    },
+    {
+      "id": "ly002",
+      "zh": "黄连山",
+      "hani": "hhaq ggu",
+      "pronunciation": "哈谷",
+      "category": "scenic",
+      "intro": "绿春县境内的高山原始森林"
+    },
+    {
+      "id": "ly003",
+      "zh": "勐阿水库",
+      "hani": "moq a",
+      "pronunciation": "莫阿",
+      "category": "scenic",
+      "intro": "绿春县境内的人工湖泊"
+    },
+    {
+      "id": "ly004",
+      "zh": "诺玛阿美民族文化生态城",
+      "hani": "noq ma a meiq",
+      "pronunciation": "诺玛阿美",
+      "category": "scenic",
+      "intro": "重要的哈尼族文化展示场所"
+    },
+    {
+      "id": "ly005",
+      "zh": "勐角大峡谷",
+      "hani": "moq jioq",
+      "pronunciation": "莫角",
+      "category": "scenic",
+      "intro": "绿春著名峡谷景观"
+    },
+    {
+      "id": "ly006",
+      "zh": "绿春古城",
+      "hani": "lav cheeq maq",
+      "pronunciation": "腊夫切马",
+      "category": "scenic",
+      "intro": "哈尼族历史文化古城"
+    }
+  ],
+  "transport": [
+    {
+      "id": "ly101",
+      "zh": "汽车站",
+      "hani": "xeiqnil jaiq",
+      "pronunciation": "写你及",
+      "category": "transport",
+      "intro": "县城汽车站"
+    },
+    {
+      "id": "ly102",
+      "zh": "公交车",
+      "hani": "koqge",
+      "pronunciation": "科各",
+      "category": "transport",
+      "intro": "城市公共交通"
+    },
+    {
+      "id": "ly103",
+      "zh": "出租车",
+      "hani": "ciqu",
+      "pronunciation": "此去",
+      "category": "transport",
+      "intro": "出租车辆"
+    },
+    {
+      "id": "ly104",
+      "zh": "机场",
+      "hani": "jul",
+      "pronunciation": "局",
+      "category": "transport",
+      "intro": "周边机场"
+    },
+    {
+      "id": "ly105",
+      "zh": "火车站",
+      "hani": "huq ceiq jaiq",
+      "pronunciation": "胡层及",
+      "category": "transport",
+      "intro": "火车站"
+    }
+  ],
+  "accommodation": [
+    {
+      "id": "ly201",
+      "zh": "酒店",
+      "hani": "jiuq deq",
+      "pronunciation": "九的",
+      "category": "hotel",
+      "intro": "住宿酒店"
+    },
+    {
+      "id": "ly202",
+      "zh": "宾馆",
+      "hani": "beq gal",
+      "pronunciation": "别嘎",
+      "category": "hotel",
+      "intro": "住宿宾馆"
+    },
+    {
+      "id": "ly203",
+      "zh": "客栈",
+      "hani": "keq zaq",
+      "pronunciation": "科扎",
+      "category": "hotel",
+      "intro": "民宿客栈"
+    },
+    {
+      "id": "ly204",
+      "zh": "民宿",
+      "hani": "miq zaq",
+      "pronunciation": "米扎",
+      "category": "hotel",
+      "intro": "当地民宿"
+    }
+  ],
+  "services": [
+    {
+      "id": "ly301",
+      "zh": "门票",
+      "hani": "meiq piu",
+      "pronunciation": "美批",
+      "category": "ticket",
+      "intro": "景区门票"
+    },
+    {
+      "id": "ly302",
+      "zh": "导游",
+      "hani": "dao y",
+      "pronunciation": "倒一",
+      "category": "service",
+      "intro": "导游服务"
+    },
+    {
+      "id": "ly303",
+      "zh": "讲解员",
+      "hani": "gaq saq",
+      "pronunciation": "嘎撒",
+      "category": "service",
+      "intro": "景区讲解"
+    }
+  ]
+}

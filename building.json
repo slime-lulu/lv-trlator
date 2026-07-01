@@ -1,0 +1,70 @@
+{
+  "buildings": [
+    {
+      "id": "bd001",
+      "zh": "土掌房",
+      "hani": "zeil qei",
+      "pronunciation": "则其",
+      "category": "building",
+      "intro": "哈尼族传统民居，土木结构"
+    },
+    {
+      "id": "bd002",
+      "zh": "蘑菇房",
+      "hani": "aq puq",
+      "pronunciation": "阿普",
+      "category": "building",
+      "intro": "哈尼族传统建筑，形似蘑菇"
+    },
+    {
+      "id": "bd003",
+      "zh": "寨门",
+      "hani": "zaq me",
+      "pronunciation": "扎么",
+      "category": "building",
+      "intro": "哈尼村寨入口处的建筑"
+    },
+    {
+      "id": "bd004",
+      "zh": "龙树",
+      "hani": "moq shul",
+      "pronunciation": "莫书",
+      "category": "building",
+      "intro": "哈尼族神圣的祭祀树木"
+    },
+    {
+      "id": "bd005",
+      "zh": "祭祀房",
+      "hani": "siq za",
+      "pronunciation": "四扎",
+      "category": "building",
+      "intro": "用于祭祀的房屋"
+    },
+    {
+      "id": "bd006",
+      "zh": "磨房",
+      "hani": "moq za",
+      "pronunciation": "莫扎",
+      "category": "building",
+      "intro": "研磨粮食的房间"
+    }
+  ],
+  "parts": [
+    {
+      "id": "bp101",
+      "zh": "火塘",
+      "hani": "piu",
+      "pronunciation": "批",
+      "category": "part",
+      "intro": "室内火塘"
+    },
+    {
+      "id": "bp102",
+      "zh": "粮仓",
+      "hani": "qo",
+      "pronunciation": "却",
+      "category": "part",
+      "intro": "存放粮食的仓库"
+    }
+  ]
+}

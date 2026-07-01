@@ -1,0 +1,104 @@
+{
+  "festivals": [
+    {
+      "id": "fj001",
+      "zh": "十月年",
+      "hani": "cilceiq",
+      "pronunciation": "次层",
+      "category": "festival",
+      "intro": "哈尼族最隆重的传统节日，相当于汉族的春节"
+    },
+    {
+      "id": "fj002",
+      "zh": "长街宴",
+      "hani": "aol ngeq",
+      "pronunciation": "奥恩",
+      "category": "festival",
+      "intro": "十月年期间的盛大宴席，被列入世界吉尼斯纪录"
+    },
+    {
+      "id": "fj003",
+      "zh": "祭龙节",
+      "hani": "moq za",
+      "pronunciation": "莫扎",
+      "category": "festival",
+      "intro": "哈尼族传统祭祀节日"
+    },
+    {
+      "id": "fj004",
+      "zh": "矻扎扎节",
+      "hani": "kul za",
+      "pronunciation": "苦扎",
+      "category": "festival",
+      "intro": "哈尼族传统节日，通常在农历五月"
+    },
+    {
+      "id": "fj005",
+      "zh": "六月年",
+      "hani": "laol ceiq",
+      "pronunciation": "劳层",
+      "category": "festival",
+      "intro": "哈尼族另一个重要节日"
+    },
+    {
+      "id": "fj006",
+      "zh": "嘎汤帕节",
+      "hani": "gaq ta ma pa",
+      "pronunciation": "嘎汤马爬",
+      "category": "festival",
+      "intro": "哈尼族传统节日"
+    }
+  ],
+  "customs": [
+    {
+      "id": "fc101",
+      "zh": "祭祖",
+      "hani": "siq paol",
+      "pronunciation": "四跑",
+      "category": "custom",
+      "intro": "祭祀祖先仪式"
+    },
+    {
+      "id": "fc102",
+      "zh": "祭祀",
+      "hani": "za",
+      "pronunciation": "扎",
+      "category": "custom",
+      "intro": "传统祭祀活动"
+    },
+    {
+      "id": "fc103",
+      "zh": "送年",
+      "hani": "pei ceiq",
+      "pronunciation": "配层",
+      "category": "custom",
+      "intro": "送别旧年仪式"
+    }
+  ],
+  "activities": [
+    {
+      "id": "fa101",
+      "zh": "长龙宴",
+      "hani": "coq ngeq",
+      "pronunciation": "从恩",
+      "category": "activity",
+      "intro": "长街宴的另一种说法"
+    },
+    {
+      "id": "fa102",
+      "zh": "篝火晚会",
+      "hani": "hhaq neiq mo",
+      "pronunciation": "哈呢莫",
+      "category": "activity",
+      "intro": "民族歌舞晚会"
+    },
+    {
+      "id": "fa103",
+      "zh": "民族歌舞",
+      "hani": "hhaq niq",
+      "pronunciation": "哈你",
+      "category": "activity",
+      "intro": "哈尼族传统歌舞"
+    }
+  ]
+}

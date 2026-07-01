@@ -1,0 +1,148 @@
+{
+  "greetings": [
+    {
+      "id": "gr001",
+      "zh": "你好",
+      "hani": "nisoq",
+      "pronunciation": "尼梭",
+      "category": "greeting"
+    },
+    {
+      "id": "gr002",
+      "zh": "再见",
+      "hani": "haqma",
+      "pronunciation": "哈玛",
+      "category": "greeting"
+    },
+    {
+      "id": "gr003",
+      "zh": "谢谢",
+      "hani": "aqda",
+      "pronunciation": "阿大",
+      "category": "greeting"
+    },
+    {
+      "id": "gr004",
+      "zh": "对不起",
+      "hani": "ulpuq",
+      "pronunciation": "乌尔普",
+      "category": "greeting"
+    },
+    {
+      "id": "gr005",
+      "zh": "没关系",
+      "hani": "ulpuq qif",
+      "pronunciation": "乌尔普期",
+      "category": "greeting"
+    },
+    {
+      "id": "gr006",
+      "zh": "是",
+      "hani": "ee",
+      "pronunciation": "额",
+      "category": "greeting"
+    },
+    {
+      "id": "gr007",
+      "zh": "不是",
+      "hani": "qif ee",
+      "pronunciation": "期额",
+      "category": "greeting"
+    },
+    {
+      "id": "gr008",
+      "zh": "好的",
+      "hani": "hha",
+      "pronunciation": "哈",
+      "category": "greeting"
+    }
+  ],
+  "common": [
+    {
+      "id": "cm001",
+      "zh": "我",
+      "hani": "nga",
+      "pronunciation": "昂",
+      "category": "pronoun"
+    },
+    {
+      "id": "cm002",
+      "zh": "你",
+      "hani": "ni",
+      "pronunciation": "你",
+      "category": "pronoun"
+    },
+    {
+      "id": "cm003",
+      "zh": "他/她",
+      "hani": "ma",
+      "pronunciation": "马",
+      "category": "pronoun"
+    },
+    {
+      "id": "cm004",
+      "zh": "我们",
+      "hani": "nga teiq",
+      "pronunciation": "昂台",
+      "category": "pronoun"
+    },
+    {
+      "id": "cm005",
+      "zh": "你们",
+      "hani": "ni teiq",
+      "pronunciation": "你台",
+      "category": "pronoun"
+    },
+    {
+      "id": "cm006",
+      "zh": "他们",
+      "hani": "ma teiq",
+      "pronunciation": "马台",
+      "category": "pronoun"
+    }
+  ],
+  "family": [
+    {
+      "id": "fm001",
+      "zh": "爸爸",
+      "hani": "aqpa",
+      "pronunciation": "阿帕",
+      "category": "family"
+    },
+    {
+      "id": "fm002",
+      "zh": "妈妈",
+      "hani": "aqma",
+      "pronunciation": "阿马",
+      "category": "family"
+    },
+    {
+      "id": "fm003",
+      "zh": "爷爷",
+      "hani": "appa",
+      "pronunciation": "阿爬",
+      "category": "family"
+    },
+    {
+      "id": "fm004",
+      "zh": "奶奶",
+      "hani": "appa ma",
+      "pronunciation": "阿爬马",
+      "category": "family"
+    },
+    {
+      "id": "fm005",
+      "zh": "哥哥",
+      "hani": "aqpa",
+      "pronunciation": "阿帕",
+      "category": "family"
+    },
+    {
+      "id": "fm006",
+      "zh": "姐姐",
+      "hani": "aqpie",
+      "pronunciation": "阿别",
+      "category": "family"
+    }
+  ]
+}

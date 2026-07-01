@@ -1,0 +1,110 @@
+{
+  "dishes": [
+    {
+      "id": "fd001",
+      "zh": "长街宴",
+      "hani": "aol ngeq",
+      "pronunciation": "奥恩",
+      "category": "food",
+      "intro": "绿春特色宴席，汇聚各种哈尼族特色菜"
+    },
+    {
+      "id": "fd002",
+      "zh": "哈尼腊肉",
+      "hani": "a saq",
+      "pronunciation": "阿撒",
+      "category": "food",
+      "intro": "哈尼族传统腌制食品"
+    },
+    {
+      "id": "fd003",
+      "zh": "竹筒饭",
+      "hani": "coq pyu",
+      "pronunciation": "从普",
+      "category": "food",
+      "intro": "用竹筒烹制的糯米饭"
+    },
+    {
+      "id": "fd004",
+      "zh": "哈尼糯米酒",
+      "hani": "aq daq",
+      "pronunciation": "阿大",
+      "category": "food",
+      "intro": "哈尼族传统米酒"
+    },
+    {
+      "id": "fd005",
+      "zh": "血肠",
+      "hani": "shei cbaq",
+      "pronunciation": "舍巴",
+      "category": "food",
+      "intro": "用猪血和糯米制成的特色食品"
+    },
+    {
+      "id": "fd006",
+      "zh": "染蛋",
+      "hani": "ngee daq",
+      "pronunciation": "呢大",
+      "category": "food",
+      "intro": "用植物染色剂染色的蛋"
+    },
+    {
+      "id": "fd007",
+      "zh": "黄米饭",
+      "hani": "hhaq paq",
+      "pronunciation": "哈爬",
+      "category": "food",
+      "intro": "用 黄米制成的米饭"
+    },
+    {
+      "id": "fd008",
+      "zh": "三色蛋",
+      "hani": "so daq",
+      "pronunciation": "索大",
+      "category": "food",
+      "intro": "三种颜色的煮蛋"
+    },
+    {
+      "id": "fd009",
+      "zh": "糯米魔芋",
+      "hani": "laol moq",
+      "pronunciation": "劳莫",
+      "category": "food",
+      "intro": "糯米与魔芋混合食品"
+    },
+    {
+      "id": "fd010",
+      "zh": "豆腐圆子",
+      "hani": "toufu yeiq",
+      "pronunciation": "头夫也",
+      "category": "food",
+      "intro": "油炸豆腐丸"
+    },
+    {
+      "id": "fd011",
+      "zh": "油炸竹虫",
+      "hani": "coq neiq",
+      "pronunciation": "从呢",
+      "category": "food",
+      "intro": "油炸竹林昆虫"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": "fi101",
+      "zh": "糯米",
+      "hani": "laol",
+      "pronunciation": "劳",
+      "category": "ingredient",
+      "intro": "糯米饭原料"
+    },
+    {
+      "id": "fi102",
+      "zh": "香茅草",
+      "hani": "cao ca",
+      "pronunciation": "草草",
+      "category": "ingredient",
+      "intro": "香料植物"
+    }
+  ]
+}

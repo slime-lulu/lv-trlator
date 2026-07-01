@@ -1,0 +1,75 @@
+{
+  "clothing": [
+    {
+      "id": "cl001",
+      "zh": "哈尼服",
+      "hani": "aq gee",
+      "pronunciation": "阿给",
+      "category": "clothing",
+      "intro": "哈尼族传统服装"
+    },
+    {
+      "id": "cl002",
+      "zh": "包头",
+      "hani": "aq pei",
+      "pronunciation": "阿配",
+      "category": "clothing",
+      "intro": "哈尼族男子头饰"
+    },
+    {
+      "id": "cl003",
+      "zh": "银饰",
+      "hani": "nil nie",
+      "pronunciation": "你捏",
+      "category": "clothing",
+      "intro": "哈尼族传统银质饰品"
+    },
+    {
+      "id": "cl004",
+      "zh": "刺绣",
+      "hani": "aq be",
+      "pronunciation": "阿别",
+      "category": "clothing",
+      "intro": "哈尼族传统刺绣工艺"
+    },
+    {
+      "id": "cl005",
+      "zh": "腰带",
+      "hani": "deiq za",
+      "pronunciation": "得扎",
+      "category": "clothing",
+      "intro": "民族腰带"
+    },
+    {
+      "id": "cl006",
+      "zh": "绑腿",
+      "hani": "piul",
+      "pronunciation": "批乌",
+      "category": "clothing",
+      "intro": "腿部装饰"
+    }
+  ],
+  "colors": [
+    {
+      "id": "cc101",
+      "zh": "黑色",
+      "hani": "naq",
+      "pronunciation": "那",
+      "color": "#000000"
+    },
+    {
+      "id": "cc102",
+      "zh": "红色",
+      "hani": "cil",
+      "pronunciation": "此",
+      "color": "#FF0000"
+    },
+    {
+      "id": "cc103",
+      "zh": "蓝色",
+      "hani": "nil",
+      "pronunciation": "你",
+      "color": "#0000FF"
+    }
+  ]
+}

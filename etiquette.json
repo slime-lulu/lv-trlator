@@ -1,0 +1,70 @@
+{
+  "etiquette": [
+    {
+      "id": "et001",
+      "zh": "敬酒",
+      "hani": "mil za",
+      "pronunciation": "米扎",
+      "category": "etiquette",
+      "intro": "哈尼族热情好客的敬酒礼仪"
+    },
+    {
+      "id": "et002",
+      "zh": "让座",
+      "hani": "deiq yul",
+      "pronunciation": "得约",
+      "category": "etiquette",
+      "intro": "尊老爱幼的传统美德"
+    },
+    {
+      "id": "et003",
+      "zh": "磕头",
+      "hani": "khao tiao",
+      "pronunciation": "考跳",
+      "category": "etiquette",
+      "intro": "哈尼族传统礼仪"
+    },
+    {
+      "id": "et004",
+      "zh": "作客",
+      "hani": "zaq pa",
+      "pronunciation": "扎爬",
+      "category": "etiquette",
+      "intro": "拜访客人"
+    },
+    {
+      "id": "et005",
+      "zh": "待客",
+      "hani": "yol za",
+      "pronunciation": "约扎",
+      "category": "etiquette",
+      "intro": "接待客人"
+    }
+  ],
+  "words": [
+    {
+      "id": "ew101",
+      "zh": "欢迎",
+      "hani": "laol da",
+      "pronunciation": "劳大",
+      "category": "word",
+      "intro": "欢迎光临"
+    },
+    {
+      "id": "ew102",
+      "zh": "请进",
+      "hani": "laol yol",
+      "pronunciation": "劳约",
+      "category": "word",
+      "intro": "邀请进入"
+    },
+    {
+      "id": "ew103",
+      "zh": "请坐",
+      "hani": "deiq yul yol",
+      "pronunciation": "得约约",
+      "category": "word",
+      "intro": "邀请入座"
+    }
+  ]
+}

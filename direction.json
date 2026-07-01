@@ -1,0 +1,155 @@
+{
+  "directions": [
+    {
+      "id": "dr001",
+      "zh": "左转",
+      "hani": "peiq cei",
+      "pronunciation": "配脆",
+      "category": "direction"
+    },
+    {
+      "id": "dr002",
+      "zh": "右转",
+      "hani": "naol cei",
+      "pronunciation": "闹脆",
+      "category": "direction"
+    },
+    {
+      "id": "dr003",
+      "zh": "直走",
+      "hani": "dil diq",
+      "pronunciation": "地地",
+      "category": "direction"
+    },
+    {
+      "id": "dr004",
+      "zh": "前面",
+      "hani": "maq zai",
+      "pronunciation": "马在",
+      "category": "direction"
+    },
+    {
+      "id": "dr005",
+      "zh": "后面",
+      "hani": "huq zai",
+      "pronunciation": "胡在",
+      "category": "direction"
+    },
+    {
+      "id": "dr006",
+      "zh": "旁边",
+      "hani": "naq zai",
+      "pronunciation": "那在",
+      "category": "direction"
+    },
+    {
+      "id": "dr007",
+      "zh": "多远",
+      "hani": "al bol",
+      "pronunciation": "阿波",
+      "category": "distance"
+    },
+    {
+      "id": "dr008",
+      "zh": "在哪里",
+      "hani": "aol daq",
+      "pronunciation": "奥大",
+      "category": "location"
+    },
+    {
+      "id": "dr009",
+      "zh": "这边",
+      "hani": "ciq zai",
+      "pronunciation": "此在",
+      "category": "direction"
+    },
+    {
+      "id": "dr010",
+      "zh": "那边",
+      "hani": "hao zai",
+      "pronunciation": "好在",
+      "category": "direction"
+    },
+    {
+      "id": "dr011",
+      "zh": "东",
+      "hani": "dong",
+      "pronunciation": "东",
+      "category": "direction"
+    },
+    {
+      "id": "dr012",
+      "zh": "西",
+      "hani": "xi",
+      "pronunciation": "西",
+      "category": "direction"
+    },
+    {
+      "id": "dr013",
+      "zh": "南",
+      "hani": "nan",
+      "pronunciation": "南",
+      "category": "direction"
+    },
+    {
+      "id": "dr014",
+      "zh": "北",
+      "hani": "bei",
+      "pronunciation": "北",
+      "category": "direction"
+    }
+  ],
+  "distances": [
+    {
+      "id": "ds101",
+      "zh": "很近",
+      "hani": "al qei",
+      "pronunciation": "阿气",
+      "distance": "near"
+    },
+    {
+      "id": "ds102",
+      "zh": "很远",
+      "hani": "al bol",
+      "pronunciation": "阿波",
+      "distance": "far"
+    },
+    {
+      "id": "ds103",
+      "zh": "十分钟",
+      "hani": "ceiq gal",
+      "pronunciation": "层嘎",
+      "time": "10min"
+    },
+    {
+      "id": "ds104",
+      "zh": "三十分钟",
+      "hani": "so gal",
+      "pronunciation": "索嘎",
+      "time": "30min"
+    }
+  ],
+  "landmarks": [
+    {
+      "id": "lm101",
+      "zh": "路口",
+      "hani": "diul jaiq",
+      "pronunciation": "丢及",
+      "intro": "道路交叉口"
+    },
+    {
+      "id": "lm102",
+      "zh": "桥",
+      "hani": "coq",
+      "pronunciation": "从",
+      "intro": "过河桥梁"
+    },
+    {
+      "id": "lm103",
+      "zh": "市场",
+      "hani": "saol",
+      "pronunciation": "扫",
+      "intro": "交易市场"
+    }
+  ]
+}
